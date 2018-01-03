@@ -12,6 +12,8 @@ public abstract class TabFragment extends TFragment {
         this.state = state;
     }
 
+
+
     /**
      * is current
      *
