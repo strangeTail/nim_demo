@@ -20,6 +20,7 @@ import me.everything.android.ui.overscroll.OverScrollDecoratorHelper;
  * 列表Activity抽象类
  * <p>
  * Created by huangjun on 2017/6/21.
+ * 这是一个基本的Activity类
  */
 
 public abstract class ListActivityBase<T> extends UI {

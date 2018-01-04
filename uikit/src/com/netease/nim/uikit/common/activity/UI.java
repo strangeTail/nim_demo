@@ -22,6 +22,13 @@ import com.netease.nim.uikit.common.util.sys.ReflectionUtil;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ *
+ *
+ * 基类
+ *
+ */
+
 public abstract class UI extends AppCompatActivity {
 
     private boolean destroyed = false;
