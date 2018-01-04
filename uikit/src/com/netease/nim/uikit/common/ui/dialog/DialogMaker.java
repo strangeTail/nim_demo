@@ -6,6 +6,11 @@ import android.text.TextUtils;
 
 import com.netease.nim.uikit.common.util.log.LogUtil;
 
+/**
+ *
+ *  对话框建造者
+ *
+ */
 public class DialogMaker {
     private static EasyProgressDialog progressDialog;
 

@@ -1,5 +1,13 @@
 package com.netease.nim.uikit.common.fragment;
 
+
+/**
+ *
+ *
+ * baseFragment
+ *
+ */
+
 public abstract class TabFragment extends TFragment {
 
     public interface State {
@@ -11,6 +19,8 @@ public abstract class TabFragment extends TFragment {
     public void setState(State state) {
         this.state = state;
     }
+
+
 
     /**
      * is current
